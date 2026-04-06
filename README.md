@@ -5,6 +5,7 @@
 --->
 Watch this repository for the latest updates and **feel free to raise pull requests if you find some interesting papers**!
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration. MIT licensed.
 ## News🔥
 [2025/10/30] 🎉 Our survey paper "**A Survey on Efficient Vision-Language-Action Models**" [[arXiv]](https://arxiv.org/abs/2510.24795) has been released!<br>
 [2025/04/23] Add **π-0.5**, a lightweight and modular framework designed to integrate perception, control, and learning directly within physical systems.<br>
