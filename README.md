@@ -23,6 +23,7 @@ Watch this repository for the latest updates and **feel free to raise pull reque
 
 ## Development of Embodied Robotics and Benchmarks
 
+<!---
 <table>
 <tr>
 <td align="center">
@@ -46,7 +47,7 @@ Watch this repository for the latest updates and **feel free to raise pull reque
 ![image](https://github.com/user-attachments/assets/cad48f94-e8dc-4792-a716-a52d099ba4ac)
 * Video demo and figure from [1] and [2].
 
-<!---
+
 <p align="center">
     <img src="trend.png" width="54%">
     <img src="Genshin.jpg" width="43%">
@@ -55,6 +56,13 @@ Watch this repository for the latest updates and **feel free to raise pull reque
     <span><b>Figure 2. An envisioned Agent society.<sup>[2]</sup></b></span>
 </p>
 --->
+
+<!-- <p align="center">
+    <img src="trend.png" width="100%">
+    <span><b>Figure 1. Trend of Embodied Agent with LLMs.<sup>[1]</sup></b></span>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <span><b>Figure 2. An envisioned Agent society.<sup>[2]</sup></b></span>
+</p> -->
 
 
 ## Table of Contents 🍃
