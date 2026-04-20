@@ -110,6 +110,11 @@ Fudan NLP Group, miHoYo Inc
 Gaoling School of Artificial Intelligence, Renmin University of China
 
 > ### Vision-Language-Action Model
+
+* [**ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning**](https://arxiv.org/abs/2602.11236) [**arXiv 2026**] [[Github](https://github.com/amap-cvlab/ABot-Manipulation)][[Project page](https://amap-cvlab.github.io/ABot-Manipulation/)]<br>
+AMAP CV Lab, Alibaba Group
+
+
 * [**D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI**](https://arxiv.org/abs/2510.05684) [**ICLR 2026**] [[Github](https://github.com/worv-ai/D2E)][[Project page](https://worv-ai.github.io/d2e/)][[HuggingFace🤗](https://huggingface.co/papers/2510.05684)]<br>
 Stanford University, Seoul National University, MAUM.AI
 
