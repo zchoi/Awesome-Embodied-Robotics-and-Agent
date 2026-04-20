@@ -57,12 +57,11 @@ Watch this repository for the latest updates and **feel free to raise pull reque
 </p>
 --->
 
-<!-- <p align="center">
-    <img src="trend.png" width="100%">
-    <span><b>Figure 1. Trend of Embodied Agent with LLMs.<sup>[1]</sup></b></span>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    <span><b>Figure 2. An envisioned Agent society.<sup>[2]</sup></b></span>
-</p> -->
+<p align="center">
+    <img src="assets/overview_eval.png" width="100%">
+</p>
+
+Figure 1. **The Organization of Our Survey.** We systematically categorize efficient VLAs into three core pillars: (1) Efficient Model Design, encompassing efficient architectures and model compression techniques, (2) Efficient Training, covering efficient pre-training and post-training strategies, and (3) Efficient Data Collection, including efficient data collection and augmentation methods. The framework also reviews VLA foundations, key applications, challenges, and future directions, establishing the groundwork for advancing scalable embodied intelligence.
 
 
 ## Table of Contents 🍃
@@ -698,11 +697,13 @@ Tianhao Wei<sup>1*</sup>, Liqian Ma<sup>12*</sup>, Rui Chen<sup>1</sup>, Weiye Z
 
 [![Star History Chart](https://api.star-history.com/svg?repos=zchoi/Awesome-Embodied-Agent-with-LLMs&type=Date)](https://star-history.com/#zchoi/Awesome-Embodied-Agent-with-LLMs&Date)-->
 
+### Acknowledge 
+Thanks to everyone who has contributed to this repository! Special thanks to those who submitted PRs with solid work—your efforts make this project better and stronger. 🚀✨
 
+<!---
 > ### Acknowledge
 [1] Video demo from this [project](https://www.physicalintelligence.company/blog/pi0) <br>
 [2] Figure from this [project][https://robotics-transformer-x.github.io/)
-<!---
 [1] Trend pic from this [repo](https://github.com/Paitesanshi/LLM-Agent-Survey/tree/main).<br>
 [2] Figure from this paper: [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/pdf/2309.07864.pdf).
 --->
