@@ -697,7 +697,7 @@ Tianhao Wei<sup>1*</sup>, Liqian Ma<sup>12*</sup>, Rui Chen<sup>1</sup>, Weiye Z
 
 [![Star History Chart](https://api.star-history.com/svg?repos=zchoi/Awesome-Embodied-Agent-with-LLMs&type=Date)](https://star-history.com/#zchoi/Awesome-Embodied-Agent-with-LLMs&Date)-->
 
-### Acknowledge 
+## Acknowledge 
 Thanks to everyone who has contributed to this repository! Special thanks to those who submitted PRs with solid work—your efforts make this project better and stronger. 🚀✨
 
 <!---
