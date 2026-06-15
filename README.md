@@ -158,6 +158,14 @@ Zhejiang University; Institute of Software, Chinese Academy of Sciences; Alibaba
 Kui Wu<sup>1</sup>, Shuhang Xu<sup>2</sup>, Hao Chen<sup>3</sup>, Churan Wang<sup>4</sup>, Zhoujun Li<sup>1</sup>, Yizhou Wang<sup>4</sup>, Fangwei Zhong<sup>2</sup><br>
 <sup>1</sup>Beihang University, <sup>2</sup>Beijing Normal University, <sup>3</sup>City University of Macau, <sup>4</sup>Peking University
 
+* [**Hierarchical Instruction-aware Embodied Visual Tracking**](https://arxiv.org/abs/2505.20710) [**arXiv 2025**] [[**Project page**](https://sites.google.com/view/hievt)]<br>
+Kui Wu<sup>1</sup>, Hao Chen<sup>2</sup>, Churan Wang<sup>3</sup>, Fakhri Karray<sup>4</sup>, Zhoujun Li<sup>1</sup>, Yizhou Wang<sup>3</sup>, Fangwei Zhong<sup>5</sup><br>
+<sup>1</sup>Beihang University, <sup>2</sup>City University of Macau, <sup>3</sup>Peking University, <sup>4</sup>Mohamed bin Zayed University of Artificial Intelligence, <sup>5</sup>Beijing Normal University
+
+* [**AdaTracker: Learning Adaptive In-Context Policy for Cross-Embodiment Active Visual Tracking**](https://arxiv.org/abs/2604.20305) [**IEEE RA-L 2026**]<br>
+Kui Wu<sup>1</sup>, Hao Chen<sup>2</sup>, Jinzhu Han<sup>3</sup>, Haijun Liu<sup>4</sup>, Churan Wang<sup>5</sup>, Yizhou Wang<sup>6</sup>, Zhoujun Li<sup>1</sup>, Si Liu<sup>1</sup>, Fangwei Zhong<sup>3</sup><br>
+<sup>1</sup>Beihang University, <sup>2</sup>City University of Macau, <sup>3</sup>Beijing Normal University, <sup>4</sup>Minzu University of China, <sup>5</sup>Peking University Third Hospital, <sup>6</sup>Peking University
+
 * [**Meta-Control: Automatic Model-based Control System Synthesis for Heterogeneous Robot Skills**](https://arxiv.org/pdf/2405.11380) [**CoRL 2024**] [[**Project page**](https://meta-control-paper.github.io/)]<br>
 Tianhao Wei<sup>1*</sup>, Liqian Ma<sup>12*</sup>, Rui Chen<sup>1</sup>, Weiye Zhao<sup>1</sup>, Changliu Liu<sup>1</sup><br>
 <sup>1</sup>Carnegie Mellon University <sup>2</sup>Tsinghua University
