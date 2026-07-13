@@ -285,6 +285,9 @@ Inria, Flowers Laboratory.
 
 > ### Planning and Manipulation or Pretraining
 
+* [**Planning with the Views via Scene Self-Exploration**](https://arxiv.org/abs/2605.29563) [**arXiv 2026.05**] [[**Project Page**](https://viewagent.github.io/)] [[**Github**](https://github.com/mll-lab-nu/ViewAgent)]<br>
+Kangrui Wang, Linjie Li, Zhengyuan Yang, Shiqi Chen, Zihan Wang, Li Fei-Fei, Jiajun Wu, Leonidas Guibas, Lijuan Wang, Manling Li<br>
+
 * [**RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics**](https://arxiv.org/pdf/2506.04308) [**Arxiv 2025**] [[**Project Page**](https://zhoues.github.io/RoboRefer/)] [[**Code**](https://github.com/Zhoues/RoboRefer)]<br>
 Enshen Zhou<sup>1,2,*</sup>, Jingkun An<sup>1,*</sup>, Cheng Chi<sup>2,*</sup><br>
 <sup>1</sup>Beihang University, <sup>2</sup>Beijing Academy of Artificial Intelligence
