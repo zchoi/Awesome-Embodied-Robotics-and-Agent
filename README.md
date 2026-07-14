@@ -220,6 +220,9 @@ Tencent
 
 > ### LLMs with RL or World Model
 
+* [**VAGEN: Reinforcing World Model Reasoning for Multi-Turn VLM Agents**](https://arxiv.org/abs/2510.16907) [**NeurIPS 2025**] [[**Project Page**](https://vagen-ai.github.io/)] [[**Github**](https://github.com/mll-lab-nu/VAGEN)]<br>
+Kangrui Wang, Pingyue Zhang, Zihan Wang, Yaning Gao, Linjie Li, Qineng Wang, Hanyang Chen, Chi Wan, Yiping Lu, Zhengyuan Yang, Lijuan Wang, Ranjay Krishna, Jiajun Wu, Li Fei-Fei, Yejin Choi, Manling Li<br>
+
 * [**KALM: Knowledgeable Agents by Offline Reinforcement Learning from Large Language Model Rollouts**](https://openreview.net/attachment?id=sFyTZEqmUY&name=pdf) [**NeurIPS 2024**] [[**Project Page**](https://kalmneurips2024.github.io)]<br>
 Jing-Cheng Pang, Si-Hang Yang, Kaiyuan Li, Jiaji Zhang, Xiong-Hui Chen, Nan Tang, Yang Yu<br>
 <sup>1</sup>Nanjing University, <sup>2</sup>Polixir.ai
