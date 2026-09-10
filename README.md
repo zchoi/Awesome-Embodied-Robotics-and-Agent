@@ -6,6 +6,7 @@
 Watch this repository for the latest updates and **feel free to raise pull requests if you find some interesting papers**!
 
 ## News🔥
+[2026/09/10] 🎉 Our survey paper "A Survey on Efficient Vision-Language-Action Models" has been accepted by **IEEE TPAMI**!<br>
 [2026/05/11] 🎉 Add **NavSpace: How Intelligent Agents Follow Spatial Intelligence Instructions** (**ICRA 2026**), the first benchmark for evaluating spatial intelligence in embodied navigation, with open-sourced dataset, evaluation code, and baseline **SNav**. [[arXiv]](https://arxiv.org/abs/2510.08173) [[Github]](https://github.com/TidalHarley/NavSpace)<br>
 [2025/10/30] 🎉 Our survey paper "**A Survey on Efficient Vision-Language-Action Models**" [[arXiv]](https://arxiv.org/abs/2510.24795) has been released!<br>
 [2025/04/23] Add **π-0.5**, a lightweight and modular framework designed to integrate perception, control, and learning directly within physical systems.<br>
