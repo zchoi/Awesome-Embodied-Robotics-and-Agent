@@ -221,6 +221,10 @@ Tencent
 
 > ### LLMs with RL or World Model
 
+* [**Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World**](https://arxiv.org/abs/2609.23038) [**arXiv 2026.09**] [[**Project Page**](https://zju-omniai.github.io/Spatial-Interactor/)] [[**Github**](https://github.com/ZJU-OmniAI/Spatial-Interactor)] [[**HuggingFace🤗**](https://huggingface.co/collections/kagakouko/spatial-interactor)]<br>
+Kaixiang Yao<sup>1*</sup>, Xu Wang<sup>1*</sup>, Miao Pan<sup>1</sup>, Hu Xiyue<sup>1</sup>, Weishi Wang<sup>2</sup>, Daniel Dahlmeier<sup>2</sup>, Jintao Chen<sup>1</sup>, Yongliang Shen<sup>1</sup>, Xuhong Zhang<sup>1</sup>, Wenqi Zhang<sup>1</sup><br>
+<sup>*</sup>Equal Contribution <sup>1</sup>Zhejiang University <sup>2</sup>SAP
+
 * [**VAGEN: Reinforcing World Model Reasoning for Multi-Turn VLM Agents**](https://arxiv.org/abs/2510.16907) [**NeurIPS 2025**] [[**Project Page**](https://vagen-ai.github.io/)] [[**Github**](https://github.com/mll-lab-nu/VAGEN)]<br>
 Kangrui Wang, Pingyue Zhang, Zihan Wang, Yaning Gao, Linjie Li, Qineng Wang, Hanyang Chen, Chi Wan, Yiping Lu, Zhengyuan Yang, Lijuan Wang, Ranjay Krishna, Jiajun Wu, Li Fei-Fei, Yejin Choi, Manling Li<br>
 
