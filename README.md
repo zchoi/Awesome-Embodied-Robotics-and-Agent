@@ -597,6 +597,10 @@ Abhishek Das<sup>1</sup>, Samyak Datta<sup>1</sup>, Georgia Gkioxari2<sup>2</sup
 
 > ### Benchmark
 
+* [**EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks**](https://arxiv.org/abs/2609.28236) [**arXiv 2026.09**] [[**Github**](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_memory)] [[**Project Page**](https://zju-omniai.github.io/Embodied-Omni/EmbodiedMemoryBench/)]<br>
+Lizhou Liang, Xinyu Zhong, Miao Pan, Xiaohe Zhou, Xuanyu Liu, Qinfeng Li, Peng Li, Jintao Chen, Xuhong Zhang, and Wenqi Zhang<br>
+Zhejiang University, Central South University, Institute of Software, Chinese Academy of Sciences
+
 * [**NavSpace: How Intelligent Agents Follow Spatial Intelligence Instructions**](https://arxiv.org/abs/2510.08173) [**ICRA 2026**] [[**Github**](https://github.com/TidalHarley/NavSpace)]<br>
 Haolin Yang<sup>1,2,*</sup>, Yuxing Long<sup>1,2,*</sup>, Zhuoyuan Yu<sup>1,2</sup>, Zihan Yang<sup>1</sup>, Minghan Wang<sup>1</sup>, Jiapeng Xu<sup>1</sup>, Yihan Wang<sup>1</sup>, Ziyan Yu<sup>1</sup>, Wenzhe Cai<sup>3</sup>, Lei Kang<sup>1</sup>, Hao Dong<sup>1,2,†</sup><br>
 <sup>*</sup>Equal Contribution <sup>†</sup>Corresponding author <sup>1</sup>CFCS, School of Computer Science, Peking University, <sup>2</sup>PrimeBot, <sup>3</sup>Shanghai AI Lab
