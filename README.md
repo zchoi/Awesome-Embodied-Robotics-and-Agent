@@ -89,6 +89,10 @@ Figure 1. **The Organization of Our Survey.** We systematically categorize effic
 
 > ### Survey
 
+* [**LLM Agents: A Survey**](https://www.preprints.org/manuscript/202608.0265/v1) [**Preprints.org 2026.08**] [[**Github**](https://github.com/js-lee-AI/awesome-llm-agent-papers)]<br>
+Jungseob Lee<br>
+Korea University
+
 * [**A Survey on Efficient Vision-Language-Action Models**](https://arxiv.org/abs/2510.24795) [**arXiv 2025.10**] [[**Github**](https://github.com/YuZhaoshu/Efficient-VLAs-Survey)] [[**Project Page**](https://evla-survey.github.io/)]<br>
 Zhaoshu Yu<sup>1</sup>, Bo Wang<sup>1</sup>, Pengpeng Zeng<sup>1</sup>, Haonan Zhang<sup>1</sup>, Ji Zhang<sup>1</sup>, Lianli Gao<sup>3</sup>, Jingkuan Song<sup>1</sup>, Nicu Sebe<sup>4</sup>, Heng Tao Shen<sup>1</sup><br>
 <sup>1</sup> Tongji University,
