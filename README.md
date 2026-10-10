@@ -226,6 +226,9 @@ Tencent
 
 > ### LLMs with RL or World Model
 
+* [**EMPIRIC: Experiment-Driven Learning of Residual World Models for Robot Planning**](https://arxiv.org/abs/2609.35047) [**arXiv 2026.09**] [[**Project Page**](https://basisresearch.github.io/empiric/)] [[**Github**](https://github.com/BasisResearch/predicators)]<br>
+Yichao Liang, Amber Li, Dat Nguyen, Emily Bunnapradist, Michelangelo Naim, Sreela Kodali, Matteo Merler, Bowen Li, Kiran Gopinathan, Yiyun Liu, Nikhil Pimpalkhare, Joshua B. Tenenbaum, Adrian Weller, Zenna Tavares, Tom Silver, Kevin Ellis<br>
+
 * [**Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World**](https://arxiv.org/abs/2609.23038) [**arXiv 2026.09**] [[**Project Page**](https://zju-omniai.github.io/Spatial-Interactor/)] [[**Github**](https://github.com/ZJU-OmniAI/Spatial-Interactor)] [[**HuggingFace🤗**](https://huggingface.co/collections/kagakouko/spatial-interactor)]<br>
 Kaixiang Yao<sup>1*</sup>, Xu Wang<sup>1*</sup>, Miao Pan<sup>1</sup>, Hu Xiyue<sup>1</sup>, Weishi Wang<sup>2</sup>, Daniel Dahlmeier<sup>2</sup>, Jintao Chen<sup>1</sup>, Yongliang Shen<sup>1</sup>, Xuhong Zhang<sup>1</sup>, Wenqi Zhang<sup>1</sup><br>
 <sup>*</sup>Equal Contribution <sup>1</sup>Zhejiang University <sup>2</sup>SAP
@@ -304,6 +307,9 @@ Kangrui Wang, Linjie Li, Zhengyuan Yang, Shiqi Chen, Zihan Wang, Li Fei-Fei, Jia
 * [**RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks**](https://arxiv.org/abs/2603.11558) [**arXiv 2026.03**] [[**Project Page**](https://roboclaw-agibot.github.io/)] [[**Github**](https://github.com/RoboClaw-Robotics/RoboClaw)]<br>
 Ruiying Li<sup>&#42;</sup>, Yunlang Zhou<sup>&#42;</sup>, YuYao Zhu, Kylin Chen, Jingyuan Wang, Sukai Wang, Kongtao Hu, Minhui Yu, Bowen Jiang, Zhan Su, Jiayao Ma, Xin He, Yongjian Shen, Yang Yang, Guanghui Ren, Maoqing Yao, Wenhao Wang<sup>†</sup>, Yao Mu<sup>†</sup><br>
 
+* [**ExoPredicator: Learning Abstract Models of Dynamic Worlds for Robot Planning**](https://arxiv.org/abs/2509.26255) [**ICLR 2026**] [[**Blog**](https://www.basis.ai/blog/exopredicator/)] [[**Github**](https://github.com/BasisResearch/predicators)]<br>
+Yichao Liang, Dat Nguyen, Cambridge Yang, Tianyang Li, Joshua B. Tenenbaum, Carl Edward Rasmussen, Adrian Weller, Zenna Tavares, Tom Silver, Kevin Ellis<br>
+
 * [**RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics**](https://arxiv.org/pdf/2506.04308) [**Arxiv 2025**] [[**Project Page**](https://zhoues.github.io/RoboRefer/)] [[**Code**](https://github.com/Zhoues/RoboRefer)]<br>
 Enshen Zhou<sup>1,2,*</sup>, Jingkun An<sup>1,*</sup>, Cheng Chi<sup>2,*</sup><br>
 <sup>1</sup>Beihang University, <sup>2</sup>Beijing Academy of Artificial Intelligence
@@ -315,6 +321,9 @@ Chan Hee Song<sup>1</sup>, Valts Blukis<sup>2</sup>, Jonathan Tremblay<sup>2</su
 * [**Multi-Modal Grounded Planning and Efficient Replanning For Learning Embodied Agents with A Few Examples**](https://arxiv.org/pdf/2412.17288) [**AAAI 2025**] [[**Project page**](https://twoongg.github.io/projects/flare/)]<br>
 Taewoong Kim, Byeonghwi Kim, Jonghyun Choi<sup>†</sup><br>
 Seoul National University
+
+* [**VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning**](https://arxiv.org/abs/2410.23156) [**ICLR 2025**] [[**Github**](https://github.com/BasisResearch/predicators)]<br>
+Yichao Liang, Nishanth Kumar, Hao Tang, Adrian Weller, Joshua B. Tenenbaum, Tom Silver, João F. Henriques, Kevin Ellis<br>
 
 * [**Pre-emptive Action Revision by Environmental Feedback for Embodied Instruction Following Agents**](https://openreview.net/pdf?id=cq2uB30uBM) [**CoRL 2024**] [[**Project page**](https://pred-agent.github.io/)]<br>
 Jinyeon Kim<sup>1,2,*</sup>, Cheolhong Min<sup>1,*</sup>, Byeonghwi Kim<sup>1</sup>, Jonghyun Choi<sup>1</sup><br>
