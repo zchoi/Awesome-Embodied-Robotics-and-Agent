@@ -142,7 +142,7 @@ Physical Intelligence
 * [**Gemini Robotics 1.5: Pushing the Frontier of Generalist Robots with Advanced Embodied Reasoning, Thinking, and Motion Transfer**](https://arxiv.org/abs/2510.03342) [**arXiv 2025.10**]<br>
 Google DeepMind
 
-* [**Igniting VLMs toward the Embodied Space (Wall-OSS)**](https://arxiv.org/abs/2509.11766) [**arXiv 2025.09**]<br>
+* [**Igniting VLMs toward the Embodied Space (Wall-OSS)**](https://arxiv.org/abs/2509.11766) [**arXiv 2025.09**] [[Github](https://github.com/X-Square-Robot/wall-x)]<br>
 Galbot
 
 * [**MolmoAct: Action Reasoning Models that can Reason in Space**](https://arxiv.org/abs/2508.07917) [**arXiv 2025.08**] [[Github](https://github.com/allenai/molmoact)]<br>
