@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/zchoi-awesome-embodied-robotics-and-agent-badge.png)](https://mseep.ai/app/zchoi-awesome-embodied-robotics-and-agent)
+
 # 🤖 Awesome Embodied Robotics and Agent [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > This is a curated list of "Embodied robotics or agent with Vision-Language Models (VLMs) and Large Language Models (LLMs)" research which is maintained by [haonan](https://zchoi.github.io/).
 <!---
