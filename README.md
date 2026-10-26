@@ -136,6 +136,24 @@ University of Illinois Urbana-Champaign, Texas A&M University, University of Cal
 AMAP CV Lab, Alibaba Group
 
 
+* [**π\*0.6: a VLA That Learns From Experience**](https://arxiv.org/abs/2511.14759) [**arXiv 2025.11**]<br>
+Physical Intelligence
+
+* [**Gemini Robotics 1.5: Pushing the Frontier of Generalist Robots with Advanced Embodied Reasoning, Thinking, and Motion Transfer**](https://arxiv.org/abs/2510.03342) [**arXiv 2025.10**]<br>
+Google DeepMind
+
+* [**Igniting VLMs toward the Embodied Space (Wall-OSS)**](https://arxiv.org/abs/2509.11766) [**arXiv 2025.09**] [[Github](https://github.com/X-Square-Robot/wall-x)]<br>
+Galbot
+
+* [**MolmoAct: Action Reasoning Models that can Reason in Space**](https://arxiv.org/abs/2508.07917) [**arXiv 2025.08**] [[Github](https://github.com/allenai/molmoact)]<br>
+Allen Institute for AI (AI2)
+
+* [**GR-3 Technical Report**](https://arxiv.org/abs/2507.15493) [**arXiv 2025.07**]<br>
+ByteDance Seed
+
+* [**SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics**](https://arxiv.org/abs/2506.01844) [**arXiv 2025.06**] [[Github](https://github.com/huggingface/lerobot)]<br>
+Hugging Face
+
 * [**D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI**](https://arxiv.org/abs/2510.05684) [**ICLR 2026**] [[Github](https://github.com/worv-ai/D2E)][[Project page](https://worv-ai.github.io/d2e/)][[HuggingFace🤗](https://huggingface.co/papers/2510.05684)]<br>
 Stanford University, Seoul National University, MAUM.AI
 
