@@ -23,10 +23,10 @@ Watch this repository for the latest updates and **feel free to raise pull reque
 ## Trend and Imagination of Embodied Robotics and Agent
 --->
 
+<!---
 ## Development of Embodied Robotics and Benchmarks
 - [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — record & replay AI coding-agent runs offline.
 
-<!---
 <table>
 <tr>
 <td align="center">
