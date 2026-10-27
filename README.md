@@ -329,6 +329,9 @@ Inria, Flowers Laboratory.
 * [**RobotUse: Allocating Computation, Context, and Decisions**](https://arxiv.org/abs/2610.04929) [**arXiv 2026.10**] [[**Project Page**](https://robotuse-team.github.io/)] [[**Github**](https://github.com/robotuse-team/RobotUse)]<br>
 Junhoo Lee, Injun Baek, Seungyeon Kim, Suhyun Jeon, Minkyu Kim, Baekseung Kim, Nojun Kwak<br>
 
+* [**Spotter: Let the Embodied Model Lead, and the VLM Reflect for It**](https://arxiv.org/abs/2609.36808) [**arXiv 2026.09**] [[**Project Page**](https://zqc3117.github.io/Spotter/)] [[**Github**](https://github.com/zqc3117/Spotter)]<br>
+Long Li, Qichao Zhao, Yue Yang, Fan Xu, Zhe Wang, Alan Wee-Chung Liew, Chao Qu, Heng Tao Shen, Shirui Pan<br>
+
 * [**Planning with the Views via Scene Self-Exploration**](https://arxiv.org/abs/2605.29563) [**arXiv 2026.05**] [[**Project Page**](https://viewagent.github.io/)] [[**Github**](https://github.com/mll-lab-nu/ViewAgent)]<br>
 Kangrui Wang, Linjie Li, Zhengyuan Yang, Shiqi Chen, Zihan Wang, Li Fei-Fei, Jiajun Wu, Leonidas Guibas, Lijuan Wang, Manling Li<br>
 
