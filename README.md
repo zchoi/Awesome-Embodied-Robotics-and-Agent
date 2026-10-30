@@ -557,6 +557,18 @@ Andrew Szot<sup>1,2</sup> Unnat Jain<sup>1</sup> Dhruv Batra<sup>1,2</sup> Zsolt
 
 > ### Vision and Language Navigation
 
+* [**Agent Journey Beyond RGB: Hierarchical Semantic-Spatial Representation Enrichment for Vision-and-Language Navigation**](https://ojs.aaai.org/index.php/AAAI/article/view/38948) [**AAAI 2026**] [[**Github**](https://github.com/HCI-LMC/VLN-SUSA)]<br>
+Xuesong Zhang<sup>1</sup>, Yunbo Xu<sup>1</sup>, Jia Li<sup>1</sup>, Ruonan Liu<sup>2</sup>, Zhenzhen Hu<sup>1</sup><br>
+<sup>1</sup>Hefei University of Technology, <sup>2</sup>Shanghai Jiao Tong University
+
+* [**Disentangling Foreground and Background for vision-Language Navigation via Online Augmentation**](https://arxiv.org/abs/2510.00604) [**arXiv 2025**]<br>
+Yunbo Xu, Xuesong Zhang, Jia Li, Zhenzhen Hu, Richang Hong<br>
+Hefei University of Technology
+
+* [**Seeing is Believing? Enhancing Vision-Language Navigation using Visual Perturbations**](https://arxiv.org/abs/2409.05552) [**IJCNN 2025**] [[**Github**](https://github.com/HCI-LMC/VLN-MBA-VisualPerturbations)]<br>
+Xuesong Zhang, Jia Li, Yunbo Xu, Zhenzhen Hu, Richang Hong<br>
+Hefei University of Technology
+
 * [**CANVAS: Commonsense-Aware Navigation System for Intuitive Human-Robot Interaction**](https://arxiv.org/abs/2410.01273) [**ICRA 2025**] <br>
 Suhwan Choi<sup>1</sup> Yongjun Cho<sup>1</sup> Minchan Kim<sup>1</sup> Jaeyoon Jung<sup>1</sup> Myunchul Joe<sup>1</sup> Yubeen Park<sup>1</sup> Minseo Kim<sup>2</sup> Sungwoong Kim<sup>2</sup> Sungjae Lee<sup>2</sup> Hwiseong Park<sup>1</sup> Jiwan Chung<sup>2</sup> Youngjae Yu<sup>2</sup> <br>
 <sup>1</sup>MAUM.AI <sup>2</sup>Yonsei University
