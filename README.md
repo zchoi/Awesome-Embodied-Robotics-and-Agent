@@ -326,6 +326,9 @@ Inria, Flowers Laboratory.
 
 > ### Planning and Manipulation or Pretraining
 
+* [**MJev-Spatial: System One Spatial Intelligence via Native Attention Matching**](https://arxiv.org/abs/2610.22276) [**arXiv 2026.10**] [[**Code**](https://github.com/Fr0zenCrane/MJev-Spatial)]<br>
+Luozheng Qin, Yuhan Zhu, Changhai Zhou, Qian Qiao, Jun Gao, Yuhua Zhou, Harry Zhang, Xiangyu Zeng, Yuxuan Liu, Yuxin Lu, Kaijie Chen, Andrew Chen, Pony Ma<br>
+
 * [**RobotUse: Allocating Computation, Context, and Decisions**](https://arxiv.org/abs/2610.04929) [**arXiv 2026.10**] [[**Project Page**](https://robotuse-team.github.io/)] [[**Github**](https://github.com/robotuse-team/RobotUse)]<br>
 Junhoo Lee, Injun Baek, Seungyeon Kim, Suhyun Jeon, Minkyu Kim, Baekseung Kim, Nojun Kwak<br>
 
