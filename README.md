@@ -335,6 +335,10 @@ Junhoo Lee, Injun Baek, Seungyeon Kim, Suhyun Jeon, Minkyu Kim, Baekseung Kim, N
 * [**Spotter: Let the Embodied Model Lead, and the VLM Reflect for It**](https://arxiv.org/abs/2609.36808) [**arXiv 2026.09**] [[**Project Page**](https://zqc3117.github.io/Spotter/)] [[**Github**](https://github.com/zqc3117/Spotter)]<br>
 Long Li, Qichao Zhao, Yue Yang, Fan Xu, Zhe Wang, Alan Wee-Chung Liew, Chao Qu, Heng Tao Shen, Shirui Pan<br>
 
+* [**Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents**](https://arxiv.org/abs/2605.12620) [**CVPR 2026 Findings**] [[**Project Page**](https://nishadsinghi.github.io/vegas)] [[**Github**](https://github.com/nishadsinghi/vegas)]<br>
+Nishad Singhi, Christian Bialas, Snehal Jauhri, Vignesh Prasad, Georgia Chalvatzaki, Marcus Rohrbach, Anna Rohrbach<br>
+Technical University of Darmstadt & hessian.AI
+
 * [**Planning with the Views via Scene Self-Exploration**](https://arxiv.org/abs/2605.29563) [**arXiv 2026.05**] [[**Project Page**](https://viewagent.github.io/)] [[**Github**](https://github.com/mll-lab-nu/ViewAgent)]<br>
 Kangrui Wang, Linjie Li, Zhengyuan Yang, Shiqi Chen, Zihan Wang, Li Fei-Fei, Jiajun Wu, Leonidas Guibas, Lijuan Wang, Manling Li<br>
 
