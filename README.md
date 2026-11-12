@@ -661,6 +661,10 @@ Abhishek Das<sup>1</sup>, Samyak Datta<sup>1</sup>, Georgia Gkioxari2<sup>2</sup
 
 > ### Benchmark
 
+* [**LEASH: Stay Safe in Agentic Robotics**](https://arxiv.org/abs/2611.14115) [**arXiv 2026.11**] [[**Github**](https://github.com/zhuqinfeng1999/LEASH)] [[**Project Page**](https://zhuqinfeng1999.github.io/LEASH/)]<br>
+Qinfeng Zhu, Weiguang Zhao, Ke Sun, Xihao Guo, Yunxi Jiang, Rui Zhang, Lei Fan, and Kaizhu Huang<br>
+Xi'an Jiaotong-Liverpool University, Duke Kunshan University, University of Liverpool, National University of Singapore, CNRS
+
 * [**RoboQuest: Generalist Physical Agents that Search, Inspect and Test**](https://arxiv.org/abs/2610.10388) [**arXiv 2026.10**] [[**Github**](https://github.com/declare-lab/RoboQuest)] [[**Project Page**](https://declare-lab.github.io/RoboQuest/)] [[**Dataset**](https://huggingface.co/datasets/declare-lab/RoboQuest)]<br>
 Liu Renhang, Navonil Majumder, Tej Deep Pala, and Soujanya Poria<br>
 Nanyang Technological University
