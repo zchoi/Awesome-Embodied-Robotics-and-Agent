@@ -736,6 +736,10 @@ Institute of Computing Technology, CAS,
 <sup>2</sup>University of Chinese Academy of Sciences, <sup>3</sup>Beijing Academy of Artificial Intelligence
 
 > ### Simulator
+* [**Alloy: A Multi-Material Physics Engine for Robot Learning**](https://arxiv.org/abs/2611.16312) [**arXiv 2026.11**] [[**Github**](https://github.com/argonrobotics-ai/alloy)] [[**Project Page**](https://alloy.argonrobotics.ai/)]<br>
+Pranay Gupta and Deepanshu Rohilla<br>
+Argon Robotics
+
 * [**UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI**](https://arxiv.org/abs/2412.20977) [**ICCV 2025 (Highlight)**] [[**Project page**](https://unrealzoo.site/)] [[**Github**](https://github.com/UnrealZoo/unrealzoo-gym)]<br>
 Fangwei Zhong<sup>1,6</sup>, Kui Wu<sup>2</sup>, Churan Wang<sup>3</sup>, Hao Chen<sup>4</sup>, Hai Ci<sup>5</sup>, Zhoujun Li<sup>2</sup>, Yizhou Wang<sup>3</sup><br>
 <sup>1</sup>Beijing Normal University, <sup>2</sup>Beihang University, <sup>3</sup>Peking University, <sup>4</sup>City University of Macau, <sup>5</sup>National University of Singapore, <sup>6</sup>Beijing Institute for General Artificial Intelligence
