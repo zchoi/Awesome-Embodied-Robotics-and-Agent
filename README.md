@@ -740,6 +740,10 @@ Institute of Computing Technology, CAS,
 Pranay Gupta and Deepanshu Rohilla<br>
 Argon Robotics
 
+* [**Effective Parameters, Real Behavior: Renormalization for Robotics -- From Infinite Electron Mass to Sim-to-Real Gap**](https://arxiv.org/abs/2607.24079) [**arXiv 2026.07**] [[**Github**](https://github.com/WhymustIhaveaname/R4R)]<br>
+Youran Sun<sup>1</sup>, Jiaxuan Guo<sup>2</sup>, Xingyu Ren<sup>3</sup>, Chugang Yi<sup>1</sup>, Haizhao Yang<sup>1</sup><br>
+<sup>1</sup>University of Maryland, College Park, <sup>2</sup>Stanford University, <sup>3</sup>The Chinese University of Hong Kong
+
 * [**UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI**](https://arxiv.org/abs/2412.20977) [**ICCV 2025 (Highlight)**] [[**Project page**](https://unrealzoo.site/)] [[**Github**](https://github.com/UnrealZoo/unrealzoo-gym)]<br>
 Fangwei Zhong<sup>1,6</sup>, Kui Wu<sup>2</sup>, Churan Wang<sup>3</sup>, Hao Chen<sup>4</sup>, Hai Ci<sup>5</sup>, Zhoujun Li<sup>2</sup>, Yizhou Wang<sup>3</sup><br>
 <sup>1</sup>Beijing Normal University, <sup>2</sup>Beihang University, <sup>3</sup>Peking University, <sup>4</sup>City University of Macau, <sup>5</sup>National University of Singapore, <sup>6</sup>Beijing Institute for General Artificial Intelligence
