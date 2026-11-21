@@ -740,6 +740,10 @@ Institute of Computing Technology, CAS,
 Pranay Gupta and Deepanshu Rohilla<br>
 Argon Robotics
 
+* [**Elastra: A Simulation Framework for Elastic Bodies**](https://arxiv.org/abs/2611.15112) [**arXiv 2026.11**] [[**Github**](https://github.com/WhymustIhaveaname/elastra)]<br>
+Youran Sun<sup>1</sup>, Chugang Yi<sup>1</sup>, Xingyu Ren<sup>2</sup>, Haizhao Yang<sup>1</sup><br>
+<sup>1</sup>University of Maryland, College Park, <sup>2</sup>The Chinese University of Hong Kong
+
 * [**Effective Parameters, Real Behavior: Renormalization for Robotics -- From Infinite Electron Mass to Sim-to-Real Gap**](https://arxiv.org/abs/2607.24079) [**arXiv 2026.07**] [[**Github**](https://github.com/WhymustIhaveaname/R4R)]<br>
 Youran Sun<sup>1</sup>, Jiaxuan Guo<sup>2</sup>, Xingyu Ren<sup>3</sup>, Chugang Yi<sup>1</sup>, Haizhao Yang<sup>1</sup><br>
 <sup>1</sup>University of Maryland, College Park, <sup>2</sup>Stanford University, <sup>3</sup>The Chinese University of Hong Kong
