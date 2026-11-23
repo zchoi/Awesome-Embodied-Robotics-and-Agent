@@ -179,7 +179,7 @@ Physical Intelligence
 * [**RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**](https://robotics-transformer2.github.io/assets/rt2.pdf) [**arXiv 2024.07**] [[Project Page](https://deepmind.google/discover/blog/rt-2-new-model-translates-vision-and-language-into-action/)] <br>
 Google Deepmind
 
-* [**Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks**](https://arxiv.org/abs/2503.21696) [**arXiv 2025.03**] [[Github](https://github.com/zwq2018/embodied_reasoner)] [[Project Page](https://embodied-reasoner.github.io/)] [[HuggingFace🤗](https://huggingface.co/datasets/zwq2018/embodied_reasoner)] <br>
+* [**Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks**](https://arxiv.org/abs/2503.21696) [**arXiv 2025.03**] [[Github](https://github.com/ZJU-OmniAI/Embodied-Omni)] [[Project Page](https://embodied-reasoner.github.io/)] [[HuggingFace🤗](https://huggingface.co/datasets/zwq2018/embodied_reasoner)] <br>
 Zhejiang University; Institute of Software, Chinese Academy of Sciences; Alibaba Group
 
 
@@ -245,7 +245,7 @@ Lirui Zhao<sup>1,2</sup> Yue Yang<sup>2,4</sup> Kaipeng Zhang<sup>2</sup> Wenqi 
 * [**MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework**](https://openreview.net/forum?id=VtmBAGCN7o) [**ICLR 2024 (oral)**]<br>
 DeepWisdom, AI Initiative, King Abdullah University of Science and Technology, Xiamen University, The Chinese University of Hong Kong, Shenzhen, Nanjing University, University of Pennsylvania, University of California, Berkeley, The Swiss AI Lab IDSIA/USI/SUPSI
 
-* [**AppAgent: Multimodal Agents as Smartphone Users**](https://arxiv.org/pdf/2312.13771.pdf) [[**Project page**](https://appagent-official.github.io/)] [[**Github**](https://github.com/mnotgod96/AppAgent)] <br>
+* [**AppAgent: Multimodal Agents as Smartphone Users**](https://arxiv.org/pdf/2312.13771.pdf) [[**Project page**](https://appagent-official.github.io/)] [[**Github**](https://github.com/TencentQQGYLab/AppAgent)] <br>
 Chi Zhang∗ ZhaoYang∗ JiaxuanLiu∗ YuchengHan XinChen Zebiao Huang BinFu GangYu†<br>
 Tencent
 
@@ -375,7 +375,7 @@ Tianhao Wei<sup>1*</sup>, Liqian Ma<sup>12*</sup>, Rui Chen<sup>1</sup>, Weiye Z
 Guanzhi Wang<sup>1,2</sup>, Yuqi Xie<sup>3</sup>, Yunfan Jiang<sup>4</sup>, Ajay Mandlekar<sup>1</sup>, Chaowei Xiao<sup>1,5</sup>, Yuke Zhu<sup>1,3</sup>, Linxi Fan<sup>1</sup>, Anima Anandkumar<sup>1,2</sup>
 <sup>1</sup>NVIDIA, <sup>2</sup>Caltech, <sup>3</sup>UT Austin, <sup>4</sup>Stanford, <sup>5</sup>UW Madison
 
-* [**Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization**](https://arxiv.org/abs/2402.17574) [**ACL 2024**][[**Github**](https://github.com/zwq2018/Agent-Pro)] <br>
+* [**Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization**](https://arxiv.org/abs/2402.17574) [**ACL 2024**][[**Github**](https://github.com/ZJU-OmniAI/Agent-Pro)] <br>
 Wenqi Zhang, Ke Tang, Hai Wu, Mengna Wang, Yongliang Shen, Guiyang Hou, Zeqi Tan, Peng Li, Yueting Zhuang, Weiming Lu
 
 * [**Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives**](https://arxiv.org/abs/2401.02009) [**ACL 2024**] <br>
@@ -517,7 +517,7 @@ Chan Hee Song<sup>1</sup>, Jiaman Wu<sup>1</sup>, Clayton Washington<sup>1</sup>
 Jacky Liang, Wenlong Huang, Fei Xia, Peng Xu, Karol Hausman, Brian Ichter, Pete Florence, Andy Zeng<br>
 Robotics at Google
 
-* [**3D-LLM: Injecting the 3D World into Large Language Models**](https://arxiv.org/abs/2307.12981) [**arXiv 2023**] [![](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-LLM?style=social&label=Code+Stars)](https://github.com/UMass-Foundation-Model/3D-LLM) <br>
+* [**3D-LLM: Injecting the 3D World into Large Language Models**](https://arxiv.org/abs/2307.12981) [**arXiv 2023**] [![](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-LLM?style=social&label=Code+Stars)](https://github.com/UMass-Embodied-AGI/3D-LLM) <br>
 <sup>1</sup>Yining Hong, <sup>2</sup>Haoyu Zhen, <sup>3</sup>Peihao Chen, <sup>4</sup>Shuhong Zheng, <sup>5</sup>Yilun Du, <sup>6</sup>Zhenfang Chen, <sup>6,7</sup>Chuang Gan <br>
 <sup>1</sup>UCLA       <sup>2</sup> SJTU       <sup>3</sup> SCUT       <sup>4</sup> UIUC       <sup>5</sup> MIT       <sup>6</sup>MIT-IBM Watson AI Lab       <sup>7</sup> Umass Amherst
 
@@ -542,7 +542,7 @@ Beijing Institute for General Artificial Intelligence (BIGAI)
 Yuanfei Wang<sup>1</sup>, Xinju Huang<sup>2</sup>, Fangwei Zhong<sup>2</sup>, Yaodong Yang<sup>1</sup>, Yizhou Wang<sup>1</sup>, Yuanpei Chen<sup>1</sup>, Hao Dong<sup>1</sup><br>
 <sup>1</sup>Peking University, <sup>2</sup>Beijing Normal University
 
-* [**Building Cooperative Embodied Agents Modularly with Large Language Models**](https://openreview.net/forum?id=EnXJfQqy0K) [**ICLR 2024**] [[**Project page**](https://vis-www.cs.umass.edu/Co-LLM-Agents/)] [[**Github**](https://github.com/UMass-Foundation-Model/Co-LLM-Agents/)]<br>
+* [**Building Cooperative Embodied Agents Modularly with Large Language Models**](https://openreview.net/forum?id=EnXJfQqy0K) [**ICLR 2024**] [[**Project page**](https://vis-www.cs.umass.edu/Co-LLM-Agents/)] [[**Github**](https://github.com/UMass-Embodied-AGI/CoELA/)]<br>
 Hongxin Zhang<sup>1*</sup>, Weihua Du<sup>2*</sup>, Jiaming Shan<sup>3</sup>, Qinhong Zhou<sup>1</sup>, Yilun Du<sup>4</sup>, Joshua B. Tenenbaum<sup>4</sup>, Tianmin Shu<sup>4</sup>, Chuang Gan<sup>1,5</sup><br>
 <sup>1</sup>University of Massachusetts Amherst, <sup>2</sup>Tsinghua University, <sup>3</sup>Shanghai Jiao Tong University, <sup>4</sup>MIT, <sup>5</sup>MIT-IBM Watson AI Lab
 
@@ -812,7 +812,7 @@ Haoyi Zhu<sup>5</sup>
 * [**Distilling Internet-Scale Vision-Language Models into Embodied Agents**](https://openreview.net/pdf?id=6vVkGnEpP7) [**ICML 2023**] <br>
 Theodore Sumers<sup>1∗</sup> Kenneth Marino<sup>2</sup> Arun Ahuja<sup>2</sup> Rob Fergus<sup>2</sup> Ishita Dasgupta<sup>2</sup> <br>
 
-* [**LISA: Reasoning Segmentation via Large Language Model**](https://arxiv.org/pdf/2308.00692.pdf) [**arXiv 2023**] [[**Github**](https://github.com/dvlab-research/LISA)] [[**Huggingface Models**](https://huggingface.co/xinlai)] [[**Dataset**](https://drive.google.com/drive/folders/125mewyg5Ao6tZ3ZdJ-1-E3n04LGVELqy?usp=sharing)] [[**Online Demo**](http://103.170.5.190:7860/)]     
+* [**LISA: Reasoning Segmentation via Large Language Model**](https://arxiv.org/pdf/2308.00692.pdf) [**arXiv 2023**] [[**Github**](https://github.com/JIA-Lab-research/LISA)] [[**Huggingface Models**](https://huggingface.co/xinlai)] [[**Dataset**](https://drive.google.com/drive/folders/125mewyg5Ao6tZ3ZdJ-1-E3n04LGVELqy?usp=sharing)] [[**Online Demo**](http://103.170.5.190:7860/)]     
 TXin Lai<sup>1</sup> Zhuotao Tian<sup>2</sup> Yukang Chen<sup>1</sup> Yanwei Li<sup>1</sup> Yuhui Yuan<sup>3</sup> Shu Liu<sup>2</sup> Jiaya Jia<sup>1,2</sup> <br>
 <sup>1</sup>The Chinese University of Hong Kong <sup>2</sup>SmartMore <sup>3</sup>MSRA<br>
 
